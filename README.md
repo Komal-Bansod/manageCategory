@@ -1,6 +1,6 @@
 # manageCategory
 
-
+PostmanCollection = https://solar-comet-90162.postman.co/workspace/Team-Workspace~54300699-50dd-4607-835e-bc19ae64729b/collection/22943507-7b1949db-5abf-4659-9c66-d44dcb2dbb5f?action=share&creator=22943507
 
 
 
