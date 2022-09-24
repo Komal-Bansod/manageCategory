@@ -1,12 +1,14 @@
 # manageCategory
 
-PostmanCollection = https://solar-comet-90162.postman.co/workspace/Team-Workspace~54300699-50dd-4607-835e-bc19ae64729b/collection/22943507-7b1949db-5abf-4659-9c66-d44dcb2dbb5f?action=share&creator=22943507
+PostmanCollection = https://solar-comet-90162.postman.co/workspace/Team-Workspace~54300699-50dd-4607-835e-bc19ae64729b/collection/22943507-7b1949db-5abf-4659-9c66-d44dcb2dbb5f?action=share&creator=22943507,
 
 
+working vedio Link: https://drive.google.com/file/d/1Y77ppJKZk88IzpNrXzMa9-yJ8MKgyx3i/view?usp=sharing
+
+repositoryLink: https://github.com/Komal-Bansod/manageCategory.git
 
 
-
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////
 You need to create one MongoDB database with one collection called "category".
 Design a single collection schema in a manner that we can manage the n-level of category and subcategory with the same collection.
 Every category(each record) can have an n-level of subcategory.

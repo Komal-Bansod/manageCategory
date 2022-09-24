@@ -27,7 +27,7 @@ const duplicateCategory = await categoryModel.findOne({category: category })
 if (duplicateCategory) {
     return res.status(409).send({ status: false, msg: " category is already present" , data:duplicateCategory})
 }
-    createCategoryBody = await categoryModel.create(req.body)
+   let  createCategoryBody = await categoryModel.create(req.body)
     return res.status(201).send({ status: true, messege: "category createdd successfully", data: createCategoryBody })
 }
 
