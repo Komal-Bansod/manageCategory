@@ -1,7 +1,6 @@
 # manageCategory
 
-PostmanCollection = https://solar-comet-90162.postman.co/workspace/Team-Workspace~54300699-50dd-4607-835e-bc19ae64729b/collection/22943507-7b1949db-5abf-4659-9c66-d44dcb2dbb5f?action=share&creator=22943507,
-
+PostmanCollection = https://documenter.getpostman.com/view/22943507/2s83YSJSYP
 
 working vedio Link: https://drive.google.com/file/d/1Y77ppJKZk88IzpNrXzMa9-yJ8MKgyx3i/view?usp=sharing
 
